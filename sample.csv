@@ -1,0 +1,265 @@
+Timestamp,1.   What are the features of OOP? [4],2.   What is the time complexity and space complexity of Merge Sort? [5],3.   Elaborate various challenges and opportunities in the field of OB. [5],4.   What are the characteristics of attitudes? Discuss the components if attitudes in detail. [8],Enter Your Registration Number,Enter your name,Email address
+03/02/2024 09:45:53,"1. Abstraction: The process of showing important details without reveling the background details or explanation.
+2. Polymorphism: The Ability of a code to be processed in more than one form depending on the scenario.
+3. Encapsulation: The wrapping up of data members and functions into a single unit is called encapsulation",Time Complexity. O(nlogn). Space Complexity. O(n),"Organizational Behavior (OB) encounters numerous challenges and opportunities crucial for organizational effectiveness and success.
+
+Diversity and Inclusion (D&I): Managing diverse teams presents challenges in addressing biases and fostering inclusion. However, embracing D&I offers opportunities for innovation and broader perspectives, enhancing creativity and problem-solving.
+
+Work-Life Balance and Well-being: Balancing work demands with personal life is a challenge leading to burnout and decreased productivity. Organizations can seize the opportunity to implement flexible work arrangements and wellness programs, improving morale and performance.
+
+Leadership Development and Succession Planning: Developing effective leaders and ensuring smooth succession is challenging, especially with demographic shifts. However, investing in leadership development programs creates opportunities to cultivate a pipeline of talented leaders, ensuring organizational continuity and growth.
+
+Employee Engagement and Motivation: Engaging and motivating employees is essential for productivity, yet it remains a persistent challenge. By providing opportunities for growth, autonomy, and recognition, organizations can harness the potential of engaged employees to drive performance and innovation.
+
+Managing Change and Organizational Resilience: Adapting to change is difficult but necessary for organizational survival. However, effectively managing change can lead to increased agility and resilience, enabling organizations to thrive in dynamic environments.","Attitudes are complex psychological constructs that influence how individuals perceive, think about, and behave towards various objects, people, or situations. They are comprised of several key components, each contributing to the overall structure and function of an attitude.
+
+Affective Component: The affective component of attitudes reflects the emotional or feeling aspect of an attitude. It involves the individual's emotional reactions or responses towards the attitude object. For example, someone may have a positive affective component towards their job if they feel happy and fulfilled, or a negative affective component towards a particular political ideology if they feel angry or frustrated.
+
+Cognitive Component: The cognitive component pertains to the beliefs, thoughts, and knowledge that an individual holds about the attitude object. It involves the individual's perceptions and evaluations of the attitude object based on their cognitive assessments. For instance, someone may hold certain beliefs about the benefits or drawbacks of a particular product, influencing their overall attitude towards it.
+
+Behavioral Component: The behavioral component refers to the individual's tendencies or actions towards the attitude object. It involves observable behaviors or actions that result from one's attitude. For example, if someone has a positive attitude towards environmental conservation, they may engage in behaviors such as recycling, reducing energy consumption, or participating in environmental activism.
+
+These components interact dynamically and influence each other in shaping an individual's attitude. Moreover, attitudes possess several characteristics that further define their nature:
+
+Accessibility: Attitudes can vary in their accessibility, with some being easily retrievable from memory and readily influencing behavior, while others may require more effort to activate.
+
+Intensity: Attitudes can vary in intensity, ranging from strong, deeply-held convictions to weaker, more superficial preferences. Intensity reflects the strength of the affective, cognitive, and behavioral components.
+
+Persistence: Attitudes can persist over time, even in the face of contradictory information or experiences. Once formed, attitudes tend to endure unless significant cognitive or emotional shifts occur.
+
+Ambivalence: Individuals may hold ambivalent attitudes characterized by conflicting feelings, beliefs, or behaviors towards an attitude object. Ambivalence can lead to uncertainty and indecision, influencing the likelihood of attitude change.
+
+Resistance to Change: Attitudes are often resistant to change, particularly when they are deeply ingrained or tied to one's identity or values. Attempts to change attitudes may encounter resistance, requiring persuasive communication or cognitive dissonance reduction strategies.",2202040010,Deepak Kumar Dash,
+03/02/2024 09:47:19,"Encapsulation: Bundling data and methods that operate on the data into a single unit, known as a class. It restricts access to some of the object's components and prevents the accidental modification of data.
+
+Inheritance: Allows a class (subclass/derived class) to inherit properties and behaviors from another class (superclass/base class). It promotes code reusability and establishes a hierarchy among classes.
+
+Polymorphism: Refers to the ability of objects of different classes to be treated as objects of a common superclass. It allows methods to be implemented in various ways in different classes, enabling flexibility and extensibility.
+
+Abstraction: Simplifying complex systems by modeling classes based on their essential features and ignoring unnecessary details. Abstraction provides a way to define abstract classes and abstract methods that can be later implemented by concrete classes.","The time complexity of Merge Sort is O(n log n), where ""n"" is the number of elements in the array being sorted. This is because Merge Sort divides the array into halves recursively until individual elements are reached, and then it merges them back in sorted order. The log n factor comes from the recursive splitting of the array.
+
+The space complexity of Merge Sort is O(n) due to the additional space required for the temporary arrays during the merging process. In each recursive call, a temporary array of the same size as the input array is created. Therefore, the space required grows linearly with the size of the input array.","Resistance to Change: Employees may resist organizational changes, hindering the implementation of new strategies or structures.
+
+Cultural Differences: Managing diverse teams with varying cultural backgrounds poses challenges in communication, collaboration, and understanding.
+
+Workplace Conflict: Conflicts may arise due to differences in personalities, values, or goals among employees, affecting teamwork and productivity.
+
+Employee Stress and Burnout: High job demands and pressure can lead to stress and burnout, impacting both individual well-being and organizational performance.
+
+Leadership Issues: Ineffective leadership can result in a lack of motivation, direction, and a negative impact on employee morale.
+
+Opportunities in Organizational Behavior (OB):
+
+Enhanced Performance: Effective OB practices can lead to increased employee engagement, motivation, and overall organizational performance.
+
+Diversity and Inclusion: Embracing diversity fosters innovation, creativity, and a broader perspective within the organization.
+
+Adaptability: Organizations can thrive by cultivating a culture of adaptability, allowing them to respond effectively to changing environments and market dynamics.
+
+Technology Integration: Leveraging technology in OB can streamline processes, enhance communication, and improve overall efficiency.
+
+Employee Development: Opportunities for continuous learning and development can boost employee satisfaction and loyalty, contributing to long-term organizational success.
+
+Navigating these challenges and seizing opportunities in OB requires a strategic approach, effective leadership, and a commitment to fostering a positive organizational culture.","Affective Component: This involves the emotional or feeling segment of an attitude. It reflects an individual's emotions or feelings toward a particular object, person, or situation.
+
+Behavioral Component: This component relates to the way an attitude influences an individual's behavior. It involves actions or observable responses resulting from one's attitude.
+
+Cognitive Component: This is the thought or belief segment of an attitude. It represents an individual's knowledge and perceptions about a particular object, person, or situation.
+
+Components of Attitudes in Detail:
+
+Affective Component:
+
+Emotions: Reflects the emotional reactions and feelings associated with an attitude.
+Likes and Dislikes: Describes the positive or negative feelings towards the object of the attitude.
+Moods and Sentiments: Captures the broader emotional context that shapes the overall attitude.
+Behavioral Component:
+
+Observable Actions: Encompasses the outward expressions or actions resulting from an attitude.
+Intentions: Indicates the likelihood of engaging in a particular behavior based on the attitude.
+Past Behavior: Previous actions influenced by the attitude that may predict future behavior.
+Cognitive Component:
+
+Beliefs: Represents the knowledge or convictions an individual holds about the object.
+Perceptions: Involves how an individual interprets and makes sense of information related to the attitude.
+Thought Patterns: Cognitive processes that contribute to the formation and maintenance of attitudes.",2202041053,Anshuman Mishra ,mishraanshuman9937@gmail.com
+03/02/2024 09:48:28,"Object-Oriented Programming (OOP) has four main features:
+
+1. Encapsulation: It involves bundling data (attributes) and methods (functions) that operate on the data into a single unit, known as a class. Encapsulation helps in hiding the internal details of an object and exposing only what is necessary.
+
+2. Inheritance:This allows a class to inherit properties and behaviors from another class. It promotes code reusability by enabling a new class (subclass or derived class) to inherit characteristics from an existing class (superclass or base class).
+
+3. Polymorphism:It allows objects of different classes to be treated as objects of a common base class. Polymorphism enables a single interface to represent different underlying data types, making the code more flexible and adaptable.
+
+4. Abstraction: Abstraction involves simplifying complex systems by modeling classes based on the essential properties and behaviors they share. It focuses on what an object does rather than how it achieves its functionality, providing a clear and concise representation.
+
+These features collectively contribute to the modularity, flexibility, and maintainability of code in object-oriented programming.","Time Complexity: O(n log n)
+- Merge Sort has a time complexity of O(n log n), where 'n' is the number of elements in the array. This efficiency is consistent regardless of the initial ordering of the elements.
+
+Space Complexity: O(n)
+- The space complexity of Merge Sort is O(n) due to the additional space required for the temporary arrays during the merging process. This makes Merge Sort less memory-efficient compared to some in-place sorting algorithms but ensures stable and reliable performance.","Challenges in Organizational Behavior (OB):
+
+1. Resistance to Change:Employees may resist changes in organizational structure, processes, or culture, posing a challenge for managers implementing new strategies.
+
+2. Conflict Management:Managing conflicts arising from diverse perspectives, personalities, and goals within a team or organization can be challenging and requires effective resolution strategies.
+
+3. Diversity and Inclusion:Navigating diverse workforces to create inclusive environments is a challenge, as it involves addressing biases, stereotypes, and fostering a culture that values differences.
+
+4. Employee Engagement: Sustaining high levels of employee engagement poses a challenge, particularly with factors like remote work, burnout, and work-life balance impacting motivation and satisfaction.
+
+5. Leadership Development:Identifying and developing effective leaders who can adapt to changing business landscapes is a continuous challenge in OB.
+
+Opportunities in Organizational Behavior (OB):
+
+1. **Talent Management:** Understanding OB allows organizations to attract, retain, and develop talented individuals, contributing to the overall success of the organization.
+
+2. **Enhanced Productivity:** Optimizing team dynamics, communication, and collaboration through OB principles can lead to increased productivity and efficiency.
+
+3. **Innovation and Creativity:** Encouraging a positive organizational culture fosters innovation and creativity, providing opportunities for growth and competitiveness in the market.
+
+4. **Adaptability:** Organizations that leverage OB concepts can better adapt to changes in the business environment, promoting resilience and sustainability.
+
+5. **Employee Well-being:** Focusing on OB can lead to improved employee well-being, job satisfaction, and overall organizational health, contributing to a positive employer brand.
+
+Understanding and effectively addressing these challenges while embracing opportunities can lead to a more dynamic and successful organizational behavior framework.","**Characteristics of Attitudes:**
+
+1. **Enduring:** Attitudes are relatively stable over time, although they can be influenced and changed through experiences and information.
+
+2. **Evaluative:** Attitudes involve the evaluation or judgment of something. They can be positive, negative, or neutral based on the individual's feelings and beliefs.
+
+3. **Affective, Behavioral, and Cognitive Components:** Attitudes consist of three main components: affective (emotional), behavioral (intention to act), and cognitive (beliefs and thoughts).
+
+4. **Learned:** Attitudes are often learned through experiences, socialization, and interactions with others. They can be shaped by culture, family, peers, and various external influences.
+
+5. **Influence Behavior:** Attitudes have a significant impact on behavior. They guide and shape an individual's actions and reactions to certain stimuli or situations.
+
+**Components of Attitudes:**
+
+1. **Affective Component:** This is the emotional or feeling component of attitudes. It reflects an individual's emotional response or liking/disliking toward an object, person, or situation. For example, feeling happy or anxious about a particular job.
+
+2. **Behavioral Component:** This component involves the individual's behavioral tendencies or intentions toward the attitude object. It reflects the way a person intends to act or behave in relation to the attitude. For instance, expressing a desire to work harder if positive about a job.
+
+3. **Cognitive Component:** The cognitive component comprises beliefs, thoughts, and information about the attitude object. It reflects what an individual knows or thinks about the object. For example, believing that a particular job offers good benefits and opportunities.
+
+Understanding these components helps in comprehensively analyzing and influencing attitudes. Organizations often use strategies addressing all three components to manage and improve employee attitudes, contributing to a positive workplace culture.",2202040013,Animesh Pattnaik ,pattnaik.animesh@gmail.com
+03/02/2024 09:50:58,"The four main features of OOP are encapsulation, inheritance, polymorphism, and abstraction.",The space complexity of Merge sort is O(n) and time complexity is O(nlogn).,"Main challenges in organisational behaviour (OB) studies include staff resistance to change, poor communication, lack of motivation and dealing with diversity.","The characteristics of attitudes are Behavioural attitude,Positive attitude ,Affective component, Behavioural component.
+
+",2202041058,Anandita Dhal ,ananditadhal07@gmail.com
+03/02/2024 09:54:53,"Abstraction, Polymorphism, Encapsulation, Inheritance","n*log(n), n","The field of Organizational Behavior (OB) navigates a dynamic landscape, teeming with both turbulent challenges and exciting opportunities. Let's explore some key rapids on this journey:
+
+Challenges:
+
+Globalization and Diversity: Managing a diverse workforce across cultures and generations brings communication hurdles, overcoming biases, and fostering inclusion to the forefront.
+
+Technological Disruption: Automation and AI reshape the workplace, demanding continuous skill adaptation and potentially leaving some behind. OB must address reskilling, upskilling, and managing anxieties around these changes.
+
+Shifting Employee Expectations: Younger generations prioritize work-life balance, purpose, and flexibility, requiring OB to understand these evolving needs and create supportive environments.
+
+Change Management: Leading and managing organizational transformations effectively, whether mergers, restructurings, or new technologies, is crucial to minimize disruption and resistance.
+
+Ethical Dilemmas: Balancing business needs with ethical considerations, encompassing data privacy, discrimination, and sustainability, requires OB to provide frameworks for sound decision-making.
+
+Opportunities:
+
+Fostering Innovation and Creativity: By understanding individual and group dynamics, OB can cultivate environments that encourage innovative thinking, collaboration, and problem-solving.
+
+Improving Employee Engagement and Well-being: By delving into employee motivation, satisfaction, and well-being, OB can help design workplaces that promote engagement, reduce stress, and enhance overall well-being.
+
+Building High-Performing Teams: Applying OB principles can develop effective teams with strong communication, collaboration, and conflict resolution skills, leading to higher performance.
+
+Leading Through Change: OB can equip leaders with the skills and knowledge to navigate change effectively, minimizing resistance and ensuring a smooth transition for employees.
+
+Promoting Diversity and Inclusion: Leveraging the diverse talents and perspectives of all employees through inclusive workplaces, facilitated by OB, leads to better decision-making and innovation.
+
+By adeptly navigating these challenges and seizing the opportunities, OB plays a vital role in shaping positive and productive work environments for the future. Remember, the rapids may be daunting, but with the right understanding and tools, OB can help organizations and individuals ride the waves of change towards success.","Attitudes are multifaceted psychological constructs that encompass a range of components and characteristics, influencing our perceptions, decisions, and actions. Three primary components constitute attitudes: affective, cognitive, and behavioral.
+
+The affective component involves the emotional aspect of attitudes. It represents an individual's emotional response, likes or dislikes, and feelings toward a particular object, person, or idea. For example, someone may have a positive affective component towards environmental conservation, experiencing feelings of satisfaction or joy when engaging in related activities.
+
+The cognitive component pertains to beliefs and thoughts associated with an attitude. It involves the cognitive processes of knowledge and perceptions about the attitude object. Continuing with the environmental conservation example, this could include the understanding of the impact of human activities on the planet and the importance of preserving natural resources.
+
+The behavioral component encompasses behavioral tendencies or actions linked to the attitude object. It reflects an individual's intentions or predisposition to behave in a certain way. In the environmental conservation context, this might involve engaging in recycling, reducing energy consumption, or supporting eco-friendly initiatives.
+
+Attitudes exhibit consistency as individuals generally organize their attitudes in a manner that maintains internal coherence. If inconsistencies arise between the affective, cognitive, and behavioral components, individuals may experience cognitive dissonance, prompting them to resolve the inconsistency through attitude change or behavior modification.
+
+The intensity of attitudes varies, ranging from mild preferences to strong likes or dislikes. The strength of an attitude influences its predictive power regarding behavior; stronger attitudes are more likely to guide behavior. The accessibility of an attitude refers to the ease with which it comes to mind. Highly accessible attitudes are more likely to influence behavior, especially in situations requiring quick decision-making.
+
+Attitudes are not static; they can be enduring yet subject to change in response to new information, experiences, or social influences. The social context significantly shapes attitudes, with social norms, peer influence, and cultural values playing pivotal roles. Individuals may also use attitudes to express conformity or differentiation within social groups.
+
+Attitudes may vary across different situations, impacting the consistency of the attitude-behavior relationship. Some attitudes may be more situation-specific, while others are generalizable across diverse contexts.
+
+In summary, attitudes are complex constructs comprising affective, cognitive, and behavioral components. Their characteristics include consistency, intensity, accessibility, durability, and susceptibility to social and situational influences. Understanding attitudes is essential for comprehending human behavior, facilitating predictions, and informing strategies for attitude change or persuasion in fields ranging from psychology to marketing",2202040017,Debasish Dey,debasishdey.1512@gmail.com
+03/02/2024 09:56:49,"1-Data abstraction
+2-Inheritance","nlogn,n","Challenges-
+Staff resistance to change
+Poor communication
+Lack of motivation
+Dealing with diversity
+Change management
+
+Opportunities-
+Improving productivity
+Fostering innovation
+Enhancing employee satisfaction
+Developing efficient management strategies
+Improving customer service
+Improving ethical behavior
+Empowering people
+Leadership
+","an affective component (feelings), a behavioral component (the effect of the attitude on behavior), and a cognitive component (belief and knowledge. Also attitude means swag. Instagram reels fire attitude.",2202041060,Aryaman Jena ,jenaaryaman1@gmail.com
+03/02/2024 10:15:38,"Object-Oriented Programming (OOP) is characterized by several key features that contribute to its design principles. Here are the main features of OOP:
+
+1.Encapsulation: Encapsulation refers to the bundling of data (attributes) and methods (functions) that operate on the data into a single unit, known as a class.
+It hides the internal details of an object and restricts access to the internal state, only allowing interaction through well-defined interfaces.
+2.Inheritance: Inheritance is a mechanism that allows a new class (subclass or derived class) to inherit properties and behaviors from an existing class (superclass or base class).
+It promotes code reuse and establishes a hierarchy of classes, where common features are defined in a superclass and specialized features are added in subclasses.
+3.Polymorphism: Polymorphism allows objects to be treated as instances of their base class, even if they are actually instances of a derived class.
+It can take the form of method overloading (multiple methods with the same name but different parameters) and method overriding (redefining a method in a subclass).
+4.Abstraction: Abstraction involves simplifying complex systems by modeling classes based on their essential properties and behaviors.
+Abstract classes and interfaces provide a way to define abstract concepts and establish a common interface for a group of related classes.
+5.Modularity: Modularity is the concept of breaking down a complex system into smaller, independent, and manageable modules or classes.
+Each class represents a specific module, promoting code organization, maintainability, and ease of understanding.
+Objects:
+
+","Merge Sort is a sorting algorithm that follows the divide-and-conquer paradigm. The time complexity and space complexity of Merge Sort are as follows:
+
+Time Complexity: O(n log n)
+
+Merge Sort divides the input array into two halves, recursively sorts each half, and then merges the sorted halves.
+The time complexity is determined by the number of comparisons and merges performed during the sorting process.
+The division of the array takes O(log n) time, and each level of the recursion involves O(n) comparisons and merges, leading to a total time complexity of O(n log n).
+Space Complexity: O(n)
+
+Merge Sort requires additional space for the temporary storage of the divided and merged subarrays.
+The space complexity is O(n) because it needs an auxiliary array of the same size as the input array for merging.
+The space complexity is considered relatively high for large datasets compared to some in-place sorting algorithms, but it provides stable and consistent performance.","Organizational Behavior (OB) is a field of study that examines the impact of individuals, groups, and structures on the behavior within organizations. Here are various challenges and opportunities in the field of OB:
+
+Challenges:
+1.Diversity and Inclusion : Challenge: Managing diversity and fostering an inclusive workplace is a significant challenge. Organizations need to address issues related to gender, race, age, and cultural differences to create a harmonious and equitable work environment.
+2.Change Management : often face resistance to change. Implementing new technologies, organizational restructuring, or policy changes can be met with resistance from employees. Overcoming this resistance and managing change effectively is a crucial challenge.
+3.Globalization :Operating in a globalized environment introduces challenges related to cultural differences, communication barriers, and diverse regulatory environments. Organizations need to navigate these complexities to succeed on a global scale.
+Opportunities:
+1.Employee Engagement : Organizations can focus on enhancing employee engagement to improve productivity and job satisfaction. Creating a positive work culture, providing growth opportunities, and recognizing achievements contribute to higher levels of engagement.
+2.Leadership Development : Developing effective leaders is crucial for organizational success. Investing in leadership development programs and identifying and nurturing leadership talent can have a positive impact on employee motivation and organizational performance.
+3.Flexible Work Arrangements : Experimenting with innovative organizational structures, such as flat hierarchies or matrix organizations, can foster creativity and agility. Adapting to new organizational models allows companies to respond more effectively to changing market dynamics.
+In conclusion, the field of Organizational Behavior presents both challenges and opportunities that organizations must navigate to ensure the well-being of their employees and maintain competitiveness in a dynamic business environment.","Attitudes are evaluative judgments or opinions that individuals hold about people, objects, or ideas. They influence behavior and are a crucial aspect of the field of social psychology. Attitudes typically have three main components: cognitive, affective, and behavioral. Let's discuss these components in detail:
+
+1.Cognitive Component: This component involves the beliefs, thoughts, and information an individual has about the attitude object. It reflects the individual's understanding and knowledge related to the object.
+For example, if someone has a positive attitude toward environmental conservation, their cognitive component might include beliefs about the importance of protecting the environment and factual knowledge about environmental issues.
+2.Affective Component: The affective component is related to the emotional or feeling aspect of an attitude. It represents the individual's emotional response or feelings toward the attitude object.
+Using the example of environmental conservation, the affective component would involve the individual's emotional response, such as feeling positively about nature, concern for environmental issues, or a sense of responsibility to protect the environment.
+3.Behavioral Component: The behavioral component refers to the behavioral tendencies or actions that are associated with the attitude. It involves observable actions or intentions related to the attitude object.
+Continuing with the environmental conservation example, the behavioral component might include actions like recycling, participating in clean-up events, or supporting environmentally friendly policies.
+4.Strength of the Attitude :The strength of an attitude refers to the intensity or degree of conviction an individual has about their attitude. Strong attitudes are more likely to influence behavior, while weak attitudes may not have a significant impact.
+Strong attitudes are often characterized by a high level of certainty, resistance to change, and a strong emotional component.
+5.Accessibility: Accessibility refers to how easily an attitude can be brought to mind. Attitudes that are readily accessible are more likely to influence behavior because they are at the forefront of an individual's thoughts.
+Accessibility can be influenced by factors such as personal relevance, recent experiences, and the frequency of exposure to the attitude object.
+6.Source of Attitude: The source of an attitude refers to where the attitude originated. Attitudes can be influenced by direct personal experiences, socialization, culture, and exposure to information from various sources. Understanding the source of an attitude provides insights into how it might be influenced or changed.
+7.Consistency: Attitudes are more influential when they are consistent across the three components – cognitive, affective, and behavioral. Inconsistencies between these components can lead to cognitive dissonance, a state of discomfort that motivates individuals to resolve the inconsistency.
+Consistent attitudes are more likely to predict and guide behavior.
+In summary, attitudes are multidimensional and consist of cognitive, affective, and behavioral components. The strength, accessibility, consistency, and source of attitudes play crucial roles in determining their impact on an individual's behavior.",2202041063,Tashu Agrawal,tashuagrawal67@gmail.com
+03/02/2024 11:12:24,"encapsulation, inheritance, polymorphism, and abstraction.",Overall time complexity of Merge sort is O(nLogn). It is more efficient as it is in worst case also the runtime is O(nlogn) The space complexity of Merge sort is O(n),"Main challenges in organisational behaviour (OB) studies include staff resistance to change, poor communication, lack of motivation and dealing with diversity. However, opportunities include improving productivity, fostering innovation, enhancing employee satisfaction and developing efficient management strategies.","Attitudes are thought to have three components: an affective component (feelings), a behavioral component (the effect of the attitude on behavior), and a cognitive component (belief and knowledge). Attitude is our evaluation of a person, an idea, or an object.",2202041059,Archana Swain ,swainarchana04@gmail.com
+03/02/2024 13:35:32,"When they make a mistake, they say ""OOPS"". OOP is the singular form of OOP.",Complex chizen main nhi karta,"BOBO ki jimmedari aur Thakur ki gaddari Padegi sabpe bhaari.
+Ullu ki dhun aur kutte ki gardan siddhi karna mushkil hai
+""Party kab de rahe ho"" is the most ignored statement in the life
+","Attitude: Common field of study for boys and girls, over fitted for a range of individuals, while ignoring the facts and bluffing about the techniques they used to reach the answer, the wrong answer. 
+Components: Loneliness, Behaviour problem, College, Studies",2202040008,Mai nhi bataunga,rit.pa.2005@gmail.com
